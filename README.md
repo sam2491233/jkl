@@ -9,7 +9,7 @@
 ## About Me : 👨‍💻
 - ⚡ **Here to hustle** 
 - 📫 Reach me at:  **deepaksingh131102@gmail.com**
-- 📄 Check my **[RESUME]()**
+- 📄 Check my **[RESUME](Resume_DeepakSingh.pdf)**
 
 
 <h3 align="left"> 🤝 Connect with me:</h3>
