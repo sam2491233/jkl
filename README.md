@@ -1,4 +1,4 @@
-<img src="greetings.gif" width=1000px height="450px">
+<img src="hello-world.gif" width=1000px height="450px">
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Deepak Singh</h1>
 <h2 align="center">A Developer from Noida, India <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Animated-Flag-India.gif" width="40px" height="30px"> </h2>
