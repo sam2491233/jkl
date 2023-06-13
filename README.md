@@ -55,8 +55,10 @@
 <p align="center">
 <img align="centre" width=“400” height="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 <h1 align="center">CONTRIBUTION GRAPH</h1> 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaltadeepak/jaltadeepak/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaltadeepak/jaltadeepak/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jaltadeepak/jaltadeepak/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaltadeepak/jaltadeepak/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaltadeepak/jaltadeepak/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jaltadeepak/jaltadeepak/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
