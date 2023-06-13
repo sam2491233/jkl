@@ -37,7 +37,7 @@
 </p>
 
 ## 🤖 Dev Quote :
-<a align="center" width="1000px">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</a>
+<a align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</a>
 
 
 <h3 align="center">
