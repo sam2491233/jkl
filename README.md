@@ -27,13 +27,13 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaltadeepak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
-<td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jaltadeepak&show_icons=true&locale=en&layout=compact&theme=radical" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaltadeepak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=monokai"/>
+<td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jaltadeepak&show_icons=true&locale=en&layout=compact&theme=monokai" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaltadeepak&theme=radical" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaltadeepak&theme=monokai" />
 </p>
 
 ## 🤖 Dev Quote :
