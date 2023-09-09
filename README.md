@@ -4,7 +4,7 @@
 <h2 align="center">A Developer from Delhi, India <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Animated-Flag-India.gif" width="40px" height="30px"> </h2>
 <h4 align="center">
 <img src="readme_banner.gif" align="center" width="260" height="auto">
-  </h4>
+</h4>
 
 ## About Me : 👨‍💻
 - ⚡ **Here to hustle** 
