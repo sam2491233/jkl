@@ -6,7 +6,7 @@
 <img src="readme_banner.gif" align="center" width="260" height="auto">
 </h4>
 
-## About Me : 👨‍💻
+## About Me: 👨‍💻
 - ⚡ **Here to hustle** 
 - 📫 Reach me at:  **deepaksingh131102@gmail.com**
 - 📄 Check my **[RESUME](latestresume.pdf)**
